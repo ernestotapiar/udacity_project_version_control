@@ -1,3 +1,10 @@
+"""
+Bikeshare data analysis.
+
+This is a starter code for the Bikeshare data analysis project. It includes
+the structure of the program and function definitions.
+"""
+
 import time
 import pandas as pd
 import numpy as np
